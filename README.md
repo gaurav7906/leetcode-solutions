@@ -9,8 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
