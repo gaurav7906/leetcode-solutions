@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
