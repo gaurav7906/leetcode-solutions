@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/gaurav7906/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0583-delete-operation-for-two-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav7906/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Array
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/gaurav7906/leetcode-solutions/tree/master/0016-3sum-closest) |
+## Hash Table
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav7906/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/gaurav7906/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
