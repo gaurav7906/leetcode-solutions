@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/gaurav7906/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gaurav7906/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
