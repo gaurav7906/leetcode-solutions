@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gaurav7906/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
+## Matrix
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
