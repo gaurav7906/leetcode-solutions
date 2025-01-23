@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gaurav7906/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/gaurav7906/leetcode-solutions/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/gaurav7906/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/gaurav7906/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 ## Backtracking
 |  |
