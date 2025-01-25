@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gaurav7906/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/gaurav7906/leetcode-solutions/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0090-subsets-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/gaurav7906/leetcode-solutions/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Tree
 |  |
 | ------- |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
