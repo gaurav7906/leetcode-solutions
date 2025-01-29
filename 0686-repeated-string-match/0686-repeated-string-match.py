@@ -1,23 +1,24 @@
 class Solution:
     def repeatedStringMatch(self, a: str, b: str) -> int:
-        p, m = 31, 10 ** 9 + 9
-        A, B = len(a), len(b)
-        min_repeat_a = math.ceil(B / A)
-        max_repeat_a_len = A * (min_repeat_a + 1) 
-        p_pow = [1 for _ in range(max_repeat_a_len)]
-        for i in range(1, len(p_pow)):
-            p_pow[i] = (p_pow[i - 1] * p) % m
-        
-        ha = [0 for _ in range(max_repeat_a_len + 1)]
-        for i in range(max_repeat_a_len):
-            ha[i + 1] = (ha[i] + (ord(a[i % A]) - ord("a") + 1) * p_pow[i]) % m
-        
-        hb = 0
-        for i in range(B):
-            hb = (hb + (ord(b[i]) - ord("a") + 1) * p_pow[i]) % m
-        
-        for i in range(max_repeat_a_len - B + 1):
-            cur_h = (ha[i + B] - ha[i] + m) % m
-            if cur_h == hb * p_pow[i] % m: return math.ceil((i + B) / A)
-
+        # the cases where we can find substrinds can be :
+        # minimum repeation=len(b)/len(a)
+        # prefix+(n*a)+suffix -> n+2
+        # prefix+(n*a) -> n+1
+        # (n*a)suffix ->n+1
+        # (n*a) -> n 
+        # whre n is the minimum number of repetion 
+        minrep=len(b)//len(a)
+        n=minrep
+        na=""
+        while minrep:
+            na=na+a
+            minrep-=1
+        if b in na :
+            return n
+        na=na+a
+        if b in na :
+            return n+1
+        na=na+a
+        if b in na :
+            return n+2 
         return -1
