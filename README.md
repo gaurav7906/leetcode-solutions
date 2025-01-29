@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/gaurav7906/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/gaurav7906/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0686-repeated-string-match](https://github.com/gaurav7906/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/gaurav7906/leetcode-solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
