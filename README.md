@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/gaurav7906/leetcode-solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/gaurav7906/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0583-delete-operation-for-two-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/gaurav7906/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,11 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/gaurav7906/leetcode-solutions/tree/master/0890-lemonade-change) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
