@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/gaurav7906/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gaurav7906/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/gaurav7906/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/gaurav7906/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/gaurav7906/leetcode-solutions/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav7906/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
