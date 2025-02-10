@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/gaurav7906/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gaurav7906/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/gaurav7906/leetcode-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gaurav7906/leetcode-solutions/tree/master/0135-candy) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gaurav7906/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/gaurav7906/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/gaurav7906/leetcode-solutions/tree/master/0274-h-index) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gaurav7906/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
