@@ -1,34 +1,17 @@
 #include <iostream>
-#include <stack>
-#include <algorithm>
 using namespace std;
 
 class Solution {
 public:
     string removeOccurrences(string s, string part) {
-        stack<char> st;
-        string temp = ""; 
-        int count = 0;
+        string result = ""; 
 
-        for (int i = 0; i < s.length(); i++) {
-            st.push(s[i]);
-            temp.push_back(s[i]);
-            if (st.size() >= part.length()) {
-                string subs = temp.substr(temp.length() - part.length());
-                if (subs == part) {
-                    for (int j = 0; j < part.length(); j++) {
-                        st.pop();
-                    }
-                    temp.erase(temp.length() - part.length());
-                }
+        for (char c : s) {
+            result.push_back(c); 
+            if (result.size() >= part.size() && result.substr(result.size() - part.size()) == part) {
+                result.erase(result.size() - part.size()); 
             }
         }
-        string ans = "";
-        while (!st.empty()) {
-            ans += st.top();
-            st.pop();
-        }
-        reverse(ans.begin(), ans.end());
-        return ans;
+        return result; 
     }
 };
