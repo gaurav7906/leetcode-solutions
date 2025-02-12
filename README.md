@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/gaurav7906/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gaurav7906/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/gaurav7906/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/gaurav7906/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/gaurav7906/leetcode-solutions/tree/master/0274-h-index) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/gaurav7906/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/gaurav7906/leetcode-solutions/tree/master/0290-word-pattern) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav7906/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav7906/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/3447-clear-digits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 <!---LeetCode Topics End-->
