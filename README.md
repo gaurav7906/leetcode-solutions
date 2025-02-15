@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/gaurav7906/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/gaurav7906/leetcode-solutions/tree/master/1585-the-kth-factor-of-n) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/gaurav7906/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/gaurav7906/leetcode-solutions/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/gaurav7906/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
 |  |
 | ------- |
