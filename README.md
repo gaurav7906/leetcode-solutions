@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/gaurav7906/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/gaurav7906/leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0890-lemonade-change](https://github.com/gaurav7906/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/gaurav7906/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/gaurav7906/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Union Find
 |  |
 | ------- |
