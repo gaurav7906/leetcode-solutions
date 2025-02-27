@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0965-unique-email-addresses) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gaurav7906/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav7906/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/3447-clear-digits) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0965-unique-email-addresses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav7906/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gaurav7906/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gaurav7906/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/gaurav7906/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/gaurav7906/leetcode-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gaurav7906/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/gaurav7906/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/gaurav7906/leetcode-solutions/tree/master/0890-lemonade-change) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/gaurav7906/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/gaurav7906/leetcode-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 ## Stack
 |  |
