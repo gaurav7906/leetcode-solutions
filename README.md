@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/gaurav7906/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/gaurav7906/leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0890-lemonade-change](https://github.com/gaurav7906/leetcode-solutions/tree/master/0890-lemonade-change) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 ## Matrix
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/gaurav7906/leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 ## Backtracking
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0100-same-tree) |
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
