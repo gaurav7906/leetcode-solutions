@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/gaurav7906/leetcode-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gaurav7906/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3429-special-array-i](https://github.com/gaurav7906/leetcode-solutions/tree/master/3429-special-array-i) |
 ## Dynamic Programming
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gaurav7906/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0965-unique-email-addresses) |
 | [1039-find-the-town-judge](https://github.com/gaurav7906/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/gaurav7906/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/gaurav7906/leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
