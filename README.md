@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0965-unique-email-addresses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0965-unique-email-addresses) |
+| [0983-validate-stack-sequences](https://github.com/gaurav7906/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1039-find-the-town-judge](https://github.com/gaurav7906/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav7906/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gaurav7906/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gaurav7906/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/gaurav7906/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0983-validate-stack-sequences](https://github.com/gaurav7906/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav7906/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/gaurav7906/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/gaurav7906/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaurav7906/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
