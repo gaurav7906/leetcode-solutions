@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/gaurav7906/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/gaurav7906/leetcode-solutions/tree/master/0274-h-index) |
+| [0300-longest-increasing-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0334-increasing-triplet-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/gaurav7906/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/gaurav7906/leetcode-solutions/tree/master/0072-edit-distance) |
+| [0300-longest-increasing-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/gaurav7906/leetcode-solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gaurav7906/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/gaurav7906/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
