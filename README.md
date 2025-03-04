@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0860-design-circular-queue](https://github.com/gaurav7906/leetcode-solutions/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/gaurav7906/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/gaurav7906/leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0860-design-circular-queue](https://github.com/gaurav7906/leetcode-solutions/tree/master/0860-design-circular-queue) |
 | [0890-lemonade-change](https://github.com/gaurav7906/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/gaurav7906/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -304,4 +306,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/gaurav7906/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/gaurav7906/leetcode-solutions/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/gaurav7906/leetcode-solutions/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
