@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/gaurav7906/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1039-find-the-town-judge](https://github.com/gaurav7906/leetcode-solutions/tree/master/1039-find-the-town-judge) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav7906/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gaurav7906/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gaurav7906/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/gaurav7906/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gaurav7906/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/gaurav7906/leetcode-solutions/tree/master/2035-count-sub-islands) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/gaurav7906/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/gaurav7906/leetcode-solutions/tree/master/2035-count-sub-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/gaurav7906/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
