@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/gaurav7906/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurav7906/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0860-design-circular-queue](https://github.com/gaurav7906/leetcode-solutions/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurav7906/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gaurav7906/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gaurav7906/leetcode-solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/gaurav7906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurav7906/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurav7906/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0207-course-schedule](https://github.com/gaurav7906/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/gaurav7906/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/gaurav7906/leetcode-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/0783-search-in-a-binary-search-tree) |
