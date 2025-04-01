@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/gaurav7906/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0965-unique-email-addresses](https://github.com/gaurav7906/leetcode-solutions/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/gaurav7906/leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1036-rotting-oranges](https://github.com/gaurav7906/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/gaurav7906/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav7906/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/gaurav7906/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/gaurav7906/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/gaurav7906/leetcode-solutions/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/gaurav7906/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/gaurav7906/leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/gaurav7906/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/gaurav7906/leetcode-solutions/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1876-map-of-highest-peak](https://github.com/gaurav7906/leetcode-solutions/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/gaurav7906/leetcode-solutions/tree/master/2035-count-sub-islands) |
