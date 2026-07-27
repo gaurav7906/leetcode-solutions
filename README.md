@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/gaurav7906/leetcode-solutions/tree/master/1039-find-the-town-judge) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/gaurav7906/leetcode-solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/gaurav7906/leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/gaurav7906/leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/gaurav7906/leetcode-solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/gaurav7906/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/gaurav7906/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/gaurav7906/leetcode-solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/gaurav7906/leetcode-solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/gaurav7906/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2049-eliminate-maximum-number-of-monsters](https://github.com/gaurav7906/leetcode-solutions/tree/master/2049-eliminate-maximum-number-of-monsters) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gaurav7906/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Number Theory
