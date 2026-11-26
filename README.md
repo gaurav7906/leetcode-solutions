@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/gaurav7906/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/gaurav7906/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/gaurav7906/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/gaurav7906/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/gaurav7906/leetcode-solutions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/gaurav7906/leetcode-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/gaurav7906/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/gaurav7906/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3360-stone-removal-game](https://github.com/gaurav7906/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3447-clear-digits](https://github.com/gaurav7906/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
